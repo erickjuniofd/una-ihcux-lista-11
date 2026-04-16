@@ -1,13 +1,18 @@
-# una-ihcux-lista-11
+Nome: Mathus Moreira Lopes
+      Cláudio Martins Camilo
+      Cláudio Martins Camilo Júnior 
+      Erick junio Feranndes Duarte
+      Franklin Victor fernandes de Rezendes Maurisso
+
 tela 1. Localiza os itens desejados proximos a voce
 
-tela 2. filtro para localizar itens desejados
+tela 2. filtro para localizar itens desejados 
 
 tela 3. descrição do item e endereço de retirada
 
 tela 4. cadastro de item
 
-tela 5. chat para negociação
+tela 5. chat para negociação 
 
 tela 6. perfil
 
